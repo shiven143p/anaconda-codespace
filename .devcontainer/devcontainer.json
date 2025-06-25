@@ -1,0 +1,14 @@
+{
+  "name": "Anaconda Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "extensions": [
+    "ms-python.python",
+    "ms-toolsai.jupyter"
+  ],
+  "postCreateCommand": "conda activate anaconda-env"
+}
