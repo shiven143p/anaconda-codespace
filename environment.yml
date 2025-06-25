@@ -1,0 +1,9 @@
+name: anaconda-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyterlab
