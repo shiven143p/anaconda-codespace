@@ -1,0 +1,3 @@
+text,output,timestamp
+I do not love anyone,Predicted emotion: love,2025-06-27 12:44:23.190609
+This classification is not working properly,Predicted emotion: joy,2025-06-27 12:44:59.175960
